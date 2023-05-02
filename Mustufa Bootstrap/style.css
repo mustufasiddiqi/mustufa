@@ -1,0 +1,36 @@
+*{
+    font-family: 'Sora', sans-serif;
+    color: black;
+}
+#brand-hd{
+    color: #A22C29;
+    font-size: 30px;
+}
+
+#alert-change-clr{
+    background-color: black;
+    color: white;
+}
+#search-btn-clr {
+    border-color: black;
+    color: black;
+}
+#search-btn-clr:hover {
+    border: black;
+    background-color: #A22C29;
+    color: white;
+}
+
+
+.bg-image {
+    height: 100vh;
+    background-image: url('https://cdn.shopify.com/s/files/1/2290/7887/files/DV_1920x900_M_cfee8c4e-7bc4-45fb-8067-49ecd18e1626.jpg?v=1683031042');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+
+  .sprate-div {
+    height: 1px;
+    background-color: black;
+  }
